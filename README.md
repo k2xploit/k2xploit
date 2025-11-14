@@ -16,6 +16,8 @@
 
 ⟊Laniakea≫avg  
 ⟊Shapley⇶apex(600 km/s)
+⟊Laniakea_size≈5.2×10⁸ly
+⟊Shapley_size≈(6.5×10⁸–1×10⁹)ly
 
 ⧉ Dynamics(MW⇆M31):
 rv=−110 km_s  
