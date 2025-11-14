@@ -1,16 +1,27 @@
-## Hi there 👋
+⟒CMB⟒ :: Mollweide(360°⊗180°)
+ΔT≈0.0001°C  
 
-<!--
-**k2xploit/k2xploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ΛCDM⟟ Ω_m·Ω_Λ·H₀=70km_s_Mpc⁻¹  
 
-Here are some ideas to get you started:
+⧖t₀=13.8×10⁹y  
+⧖R_h=46.5×10⁹ly  
+⧖D_h=93×10⁹ly  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⟁ρ_g≈2×10¹²  
+⟁Σ_sc≈10⁵–10⁶  
+⟁μ≈2×10³–2×10⁴  
+
+✧MW=10¹¹–4×10¹¹  
+✧M31≈10¹²  
+
+⟊Laniakea≫avg  
+⟊Shapley⇶apex(600 km/s)
+
+⧉ Dynamics(MW⇆M31):
+rv=−110 km_s  
+tv≈ε  
+barycenter=co_fall  
+Milkomeda≈4×10⁹y  
+
+≣expansion≠uniform  
+≣gravity≫expansion(local)
