@@ -12,15 +12,16 @@
 ⟁Σ_sc≈10⁵–10⁶  
 ⟁μ≈2×10³–2×10⁴  
 
-✧MW=10¹¹–4×10¹¹  
-✧M31≈10¹²  
-
 ⟊Laniakea≫avg  
 ⟊Shapley⇶apex(600 km/s)  
 ⟊Laniakea_size≈5.2×10⁸ly  
 ⟊Shapley_size≈(6.5×10⁸–1×10⁹)ly  
 
+✧MW=10¹¹–4×10¹¹  
+✧M31≈10¹²  
+
 ⧉MW⇆M31:  
+dist≈2.5e6ly  
 rv≈−110km_s  
 tv≈ε  
 ⦿=co_fall  
