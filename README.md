@@ -2,7 +2,7 @@
 ΔT≈0.0001°C  
 
 ΛCDM⟟ Ω_m·Ω_Λ·H₀=70km_s_Mpc⁻¹  
-H₀≈67↯73 (Hubble_tension)  
+⟊H₀(Planck)≈67 ≠ H₀(Hubble)≈73  ⟟ Hubble_tension  
 
 ⧖t₀=13.8×10⁹y  
 ⧖R_h=46.5×10⁹ly  
