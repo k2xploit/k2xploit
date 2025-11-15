@@ -22,14 +22,27 @@ SMBH≈10¹¹ (≥10⁶M☉; ≈1/galaxy)
 ⟁μ≈2×10³–2×10⁴
 
 ⟒BigBang_evidence:
-CMB, expansion(H₀), light_elements, LSS
+CMB
+expansion(H₀)
+light_elements
+LSS
 age≈13.797±0.023Gy
-origin_models={quantum_fluctuation?, bounce?, BH_parent_universe?, multiverse_inflation?}
+
+⟒BigBang_models:
+quantum_vacuum_fluctuation (leading)
+bounce_cosmology (alt)
+BH_parent_universe? (spec.)
+multiverse_inflation (alt)
+white_hole_origin? (alt)
 pre_BB_time?=undefined
 
-⟒quantum_fluctuation:
-vacuum→bubble (origin_unknown)
-bubble_expansion→inflation
+⟒quantum_vacuum:
+vacuum_existed_without_cause? (hyp)
+quantum_fluctuation≠dark_energy
+quantum_fluctuation=microscopic_vacuum_noise
+dark_energy=macroscopic_vacuum_pressure
+vacuum_fluctuation→inflation→BigBang
+dominant_model≈quantum_fluctuation+inflation
 
 ⧉bounce_cosmology:
 U_collapse→quantum_rebound→BB₂
@@ -40,12 +53,16 @@ U_collapse→quantum_rebound→BB₂
 ⟒Eridanus_supervoid_D≈(5×10⁸–10⁹)ly
 ≣Eridanus≫Boötes
 
-⟒voids: ρ≈(0.1–0.2)ρ̄; Φ_g≪; H_loc≳H₀
+⟒voids:
+ρ≈(0.1–0.2)ρ̄
+Φ_g≪
+H_loc≳H₀
 ≣SC_growth≈gravity_pull
 ≣void_growth≈mass_loss+H_loc↑
-≣web=SC↔void co_evolve
+≣web=SC↔void_co_evolve
 
-⟊Laniakea_size≈5.2×10⁸ly; M≈1×10¹⁷M☉
+⟊Laniakea_size≈5.2×10⁸ly
+⟊Laniakea_mass≈1×10¹⁷M☉
 ⟊Laniakea_subSC≈{Virgo_SC, Hydra–Centaurus_SC, Pavo–Indus_SC, Antlia–Hya_ext}
 
 ⟊Shapley⇶apex(600km_s)
@@ -60,12 +77,14 @@ U_collapse→quantum_rebound→BB₂
 ✧M31≈(1–1.5)×10¹²M☉; D≈2×10⁵ly
 
 ⧉MW⇆M31:
-dist≈2.5×10⁶ly; rv≈−110km_s; tv≈ε
+dist≈2.5×10⁶ly
+rv≈−110km_s
+tv≈ε
 Milkomeda≈4×10⁹y
 
 ⟟BH_types:
-Schwarzschild(a=0)=math_only (non-spin improbable)
-Kerr(a>0)=real_universe(~100%; spin_conserved)
+Schwarzschild(a=0)=math_only
+Kerr(a>0)=real_universe(~100%)
 spin↑→ergosphere+jets↑
 
 ⟟BHs:
@@ -80,7 +99,7 @@ spacetime@l_P≈quantum_foam
 
 ⟟BH_growth:
 M↑ via gas+mergers+★capture+radiation
-r_s↑ with M (horizon_expands)
+r_s↑ with M
 disk_size≠horizon_size
 growth_timescale≈My→Gy
 
@@ -96,10 +115,12 @@ corona≈patchy_X-ray (days–months)
 jets⊥disk (relativistic_beams→10⁵–10⁶ly)
 jets_origin≈inner_disk+BZ
 quasar_region≈acc_disk+corona+BLR
+
 r_s=invisible_boundary
 photon_sphere≈1.5r_s
 shadow≈lensing_black_circle
 singularity≈r→0 (ρ→∞; unknown_QG)
+
 visible≈{disk_blue/white, photon_ring, jets}
 invisible≈{event_horizon, singularity, interior}
 
@@ -107,7 +128,8 @@ invisible≈{event_horizon, singularity, interior}
 quasar_D≈3–4ly
 acc_disk≈1–4ly
 corona≈10⁻³–10⁻²ly
-r_s≈0.02ly (R); D_hor≈0.04ly≈14–15d
+r_s≈0.02ly (R)
+D_hor≈0.04ly≈14–15d
 quasar≫horizon
 
 ⟟BH_interior_QG:
