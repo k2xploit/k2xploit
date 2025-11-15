@@ -20,11 +20,11 @@
 ⟊Laniakea_size≈5.2×10⁸ly  
 ⟊Shapley_size≈(6.5×10⁸–1×10⁹)ly  
 
-⧉ Dynamics(MW⇆M31):
-rv=−110 km_s  
+⧉MW⇆M31:  
+rv≈−110km_s  
 tv≈ε  
-barycenter=co_fall  
-Milkomeda≈4×10⁹y  
+⦿=co_fall  
+Milkomeda≈4e9y  
 
 ≣expansion≠uniform  
 ≣gravity≫expansion(local)
