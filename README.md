@@ -1,109 +1,147 @@
-<div style="font-family:monospace;font-size:14px;line-height:1.35">
-
-<span style="color:#00d9ff">⟒CMB⟒ :: Mollweide(360°⊗180°) ΔT≈0.0001°C</span><br>
-<span style="color:#00d9ff">⟒κ_CMB≈0±δκ (flat)</span><br>
+⟒CMB⟒ :: Mollweide(360°⊗180°) ΔT≈0.0001°C<br>
+⟒κ_CMB≈0±δκ (flat)<br>
 <br>
-
-<span style="color:#00d9ff">ΛCDM⟟ Ω_m≈0.315 · Ω_Λ≈0.685 · H₀≈67.4km_s_Mpc⁻¹ (Planck18)</span><br>
+ΛCDM⟟ Ω_m≈0.315 · Ω_Λ≈0.685 · H₀≈67.4km_s_Mpc⁻¹ (Planck18)<br>
 <br>
-
-<span style="color:#00d9ff">⧖t₀=13.8×10⁹y</span><br>
-<span style="color:#00d9ff">⧖R_h=46.5×10⁹ly</span><br>
-<span style="color:#00d9ff">⧖D_h=93×10⁹ly</span><br>
-<span style="color:#00d9ff">⟒U_total≫D_h (super-horizon; expansion>c)</span><br>
+⧖t₀=13.8×10⁹y<br>
+⧖R_h=46.5×10⁹ly<br>
+⧖D_h=93×10⁹ly<br>
+⟒U_total≫D_h (super-horizon; expansion>c)<br>
 <br>
-
-<span style="color:#00d9ff">⟒M_obs≈10²³M☉</span><br>
-<span style="color:#00d9ff">⟒N_SC,obs≈10⁷</span><br>
-<span style="color:#00d9ff">⟒N_void,large≈10³–10⁴</span><br>
+⟒M_obs≈10²³M☉<br>
+⟒N_SC,obs≈10⁷<br>
+⟒N_void,large≈10³–10⁴<br>
 <br>
-
-<span style="color:#00d9ff">⟒BigBang_models:</span><br>
-<span style="color:#00d9ff">quantum_vacuum_fluctuation (dominant)</span><br>
-<span style="color:#00d9ff">bounce_cosmology (alt)</span><br>
-<span style="color:#00d9ff">BH_parent_universe? (spec.)</span><br>
-<span style="color:#00d9ff">multiverse_inflation (alt)</span><br>
-<span style="color:#00d9ff">white_hole_origin? (alt)</span><br>
-<span style="color:#00d9ff">pre_BB_time?=undefined</span><br>
+⟒BH_population:<br>
+stellar≈10⁴⁰ (3–100M☉)<br>
+IMBH≈10⁵–10⁷ (10²–10⁵M☉)<br>
+SMBH≈10¹¹ (≥10⁶M☉; ≈1/galaxy)<br>
 <br>
-
-<span style="color:#00d9ff">⟒quantum_vacuum:</span><br>
-<span style="color:#00d9ff">vacuum_existed_without_cause? (hyp)</span><br>
-<span style="color:#00d9ff">quantum_fluctuation≠dark_energy</span><br>
-<span style="color:#00d9ff">vacuum_fluctuation→inflation→BigBang</span><br>
+⟁ρ_g≈2×10¹²<br>
+⟁Σ_sc≈10⁵–10⁶<br>
+⟁μ≈2×10³–2×10⁴<br>
 <br>
-
-<span style="color:#ff4dfc">⟒LSS:: cosmic_web {filaments, walls, voids}</span><br>
-<span style="color:#ff4dfc">⟒Boötes_void_D≈3.3×10⁸ly</span><br>
-<span style="color:#ff4dfc">⟒Eridanus_supervoid_D≈(5×10⁸–10⁹)ly</span><br>
+⟒BigBang_evidence:<br>
+CMB<br>
+expansion(H₀)<br>
+light_elements<br>
+LSS<br>
+age≈13.797±0.023Gy<br>
 <br>
-
-<span style="color:#ff4dfc">⟊Laniakea_supercluster:</span><br>
-<span style="color:#ff4dfc">size≈5.2×10⁸ly · mass≈1×10¹⁷M☉</span><br>
-<span style="color:#ff4dfc">subSC={Virgo_SC, Hydra–Cen_SC, Pavo–Indus_SC, Antlia–Hya_ext}</span><br>
+⟒BigBang_models:<br>
+quantum_vacuum_fluctuation (leading)<br>
+bounce_cosmology (alt)<br>
+BH_parent_universe? (spec.)<br>
+multiverse_inflation (alt)<br>
+white_hole_origin? (alt)<br>
+pre_BB_time?=undefined<br>
 <br>
-
-<span style="color:#ff4dfc">⟊Shapley_supercluster:</span><br>
-<span style="color:#ff4dfc">apex_pull≈600km_s</span><br>
-<span style="color:#ff4dfc">size≈(6.5×10⁸–1×10⁹)ly</span><br>
-<span style="color:#ff4dfc">mass≈(5–10)×10¹⁶M☉</span><br>
+⟒quantum_vacuum:<br>
+vacuum_existed_without_cause? (hyp)<br>
+quantum_fluctuation≠dark_energy<br>
+quantum_fluctuation=microscopic_vacuum_noise<br>
+dark_energy=macroscopic_vacuum_pressure<br>
+vacuum_fluctuation→inflation→BigBang<br>
+dominant_model≈quantum_fluctuation+inflation<br>
 <br>
-
-<span style="color:#ffb347">✧Virgo_supercluster≈1×10⁴–2×10⁴gal</span><br>
-<span style="color:#ffb347">✧Virgo_cluster≈1.5×10³gal; M≈1×10¹⁵M☉</span><br>
+⧉bounce_cosmology:<br>
+U_collapse→quantum_rebound→BB₂<br>
 <br>
-
-<span style="color:#ffb347">✧Local_Group≈~50gal</span><br>
-<span style="color:#ffb347">✧MW≈1×10¹²M☉; D≈1×10⁵ly</span><br>
-<span style="color:#ffb347">✧M31≈(1–1.5)×10¹²M☉; D≈2×10⁵ly</span><br>
+⟒LSS::web{filaments, walls, voids}<br>
+⟒D_void≈10–100Mpc<br>
+⟒Boötes_void_D≈3.3×10⁸ly<br>
+⟒Eridanus_supervoid_D≈(5×10⁸–10⁹)ly<br>
+≣Eridanus≫Boötes<br>
 <br>
-
-<span style="color:#ffb347">⧉MW⇆M31:</span><br>
-<span style="color:#ffb347">dist≈2.5×10⁶ly · rv≈−110km_s</span><br>
-<span style="color:#ffb347">Milkomeda≈4×10⁹y</span><br>
+⟒voids:<br>
+ρ≈(0.1–0.2)ρ̄<br>
+Φ_g≪<br>
+H_loc≳H₀<br>
+≣SC_growth≈gravity_pull<br>
+≣void_growth≈mass_loss+H_loc↑<br>
+≣web=SC↔void_co_evolve<br>
 <br>
-
-<span style="color:#ffd700">⟟BH_population:</span><br>
-<span style="color:#ffd700">stellar≈10⁴⁰</span><br>
-<span style="color:#ffd700">IMBH≈10⁵–10⁷</span><br>
-<span style="color:#ffd700">SMBH≈10¹¹</span><br>
+⟊Laniakea_size≈5.2×10⁸ly<br>
+⟊Laniakea_mass≈1×10¹⁷M☉<br>
+⟊Laniakea_subSC≈{Virgo_SC, Hydra–Centaurus_SC, Pavo–Indus_SC, Antlia–Hya_ext}<br>
 <br>
-
-<span style="color:#ffd700">⟟BH_types:</span><br>
-<span style="color:#ffd700">Schwarzschild(a=0)=math_only</span><br>
-<span style="color:#ffd700">Kerr(a>0)=real_universe(~100%)</span><br>
+⟊Shapley⇶apex(600km_s)<br>
+⟊Shapley_size≈(6.5×10⁸–1×10⁹)ly<br>
+⟊Shapley_mass≈(5–10)×10¹⁶M☉<br>
 <br>
-
-<span style="color:#ffd700">⟟BH_examples:</span><br>
-<span style="color:#ffd700">SgrA*≈4×10⁶M☉</span><br>
-<span style="color:#ffd700">M87*≈6×10⁹M☉</span><br>
-<span style="color:#ffd700">TON618≈(4–6)×10¹⁰M☉</span><br>
+✧Virgo_SC≈1×10⁴–2×10⁴gal<br>
+✧Virgo_cluster≈1.5×10³gal; D≈1.5×10⁷ly; M≈1×10¹⁵M☉<br>
 <br>
-
-<span style="color:#ffd700">⟟BH_geometry:</span><br>
-<span style="color:#ffd700">acc_disk≈1–4ly</span><br>
-<span style="color:#ffd700">corona≈days–months</span><br>
-<span style="color:#ffd700">jets⊥disk →10⁵–10⁶ly</span><br>
-<span style="color:#ffd700">photon_sphere≈1.5r_s</span><br>
-<span style="color:#ffd700">shadow=lensing_black_circle</span><br>
-<span style="color:#ffd700">singularity=r→0 (ρ→∞)</span><br>
+✧Local_Group≈~50gal<br>
+✧MW≈1×10¹²M☉; D≈1×10⁵ly<br>
+✧M31≈(1–1.5)×10¹²M☉; D≈2×10⁵ly<br>
 <br>
-
-<span style="color:#ffd700">⟟TON618_specific:</span><br>
-<span style="color:#ffd700">quasar_D≈3–4ly</span><br>
-<span style="color:#ffd700">corona≈10⁻³–10⁻²ly</span><br>
-<span style="color:#ffd700">r_s≈0.02ly · D_hor≈0.04ly</span><br>
+⧉MW⇆M31:<br>
+dist≈2.5×10⁶ly<br>
+rv≈−110km_s<br>
+tv≈ε<br>
+Milkomeda≈4×10⁹y<br>
 <br>
-
-<span style="color:#ffd700">⟟BH_interior (QG models):</span><br>
-<span style="color:#ffd700">quantum_core</span><br>
-<span style="color:#ffd700">Planck_core</span><br>
-<span style="color:#ffd700">foam_interior</span><br>
-<span style="color:#ffd700">bounce→white_hole?</span><br>
-<span style="color:#ffd700">BH→baby_universe? (Smolin)</span><br>
+⟟BH_types:<br>
+Schwarzschild(a=0)=math_only<br>
+Kerr(a>0)=real_universe(~100%)<br>
+spin↑→ergosphere+jets↑<br>
 <br>
-
-<span style="color:#bbbbbb">≣expansion≠uniform</span><br>
-<span style="color:#bbbbbb">≣gravity≫expansion(local)</span><br>
-
-</div>
+⟟BHs:<br>
+r_s=2GM/c²<br>
+SgrA*≈4×10⁶M☉<br>
+M87*≈6×10⁹M☉<br>
+TON618≈(4–6)×10¹⁰M☉<br>
+<br>
+⟟Planck_scale:<br>
+l_P≈1.6×10⁻³⁵m<br>
+spacetime@l_P≈quantum_foam<br>
+<br>
+⟟BH_growth:<br>
+M↑ via gas+mergers+★capture+radiation<br>
+r_s↑ with M<br>
+disk_size≠horizon_size<br>
+growth_timescale≈My→Gy<br>
+<br>
+⟟BH_info:<br>
+Hawking_loss=refuted<br>
+horizon_encodes_info (holography)<br>
+Page_curve=unitary<br>
+BH=scrambler_not_destroyer<br>
+<br>
+⟟BH_geo:<br>
+acc_disk≈1–4ly<br>
+corona≈patchy_X-ray (days–months)<br>
+jets⊥disk (relativistic_beams→10⁵–10⁶ly)<br>
+jets_origin≈inner_disk+BZ<br>
+quasar_region≈acc_disk+corona+BLR<br>
+<br>
+r_s=invisible_boundary<br>
+photon_sphere≈1.5r_s<br>
+shadow≈lensing_black_circle<br>
+singularity≈r→0 (ρ→∞; unknown_QG)<br>
+<br>
+visible≈{disk_blue/white, photon_ring, jets}<br>
+invisible≈{event_horizon, singularity, interior}<br>
+<br>
+⟟TON618_geo:<br>
+quasar_D≈3–4ly<br>
+acc_disk≈1–4ly<br>
+corona≈10⁻³–10⁻²ly<br>
+r_s≈0.02ly (R)<br>
+D_hor≈0.04ly≈14–15d<br>
+quasar≫horizon<br>
+<br>
+⟟BH_interior_QG:<br>
+hypotheses={quantum_core, Planck_core, foam, bounce}<br>
+BH→white_hole? (spec.)<br>
+BH→baby_universe? (Smolin)<br>
+light_fate={trapped, scrambled}<br>
+<br>
+⟟BH_cosmology:<br>
+universe∈BH_interior? (Smolin)<br>
+BigBang≈white_hole? (alt)<br>
+U_reproduction via BH? (Smolin_fecundity)<br>
+<br>
+≣expansion≠uniform<br>
+≣gravity≫expansion(local)<br>
