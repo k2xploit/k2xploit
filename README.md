@@ -193,7 +193,7 @@ physical_D(CMB_when_emitted)=~41 Mly<br>
 <br>
 
 ⟒cosmic_visibility:<br>
-objects_at~33 Gly_today were~3–4 Gly_when_light_left<br>
+objects_at\~33 Gly_today were\~3–4 Gly_when_light_left<br>
 expansion stretched distances during travel<br>
 we_see_past_light, not current_positions<br>
 <br>
