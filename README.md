@@ -46,9 +46,9 @@ U_collapse→quantum_rebound→BB₂<br>
 <br>
 
 ⟒homogeneity_isotropy:<br>
-homogénny=rovnaká hustota všade (statisticky)<br>
-izotropný=rovnaký vzhľad v každom smere<br>
-→ základ FRW metriky → implikuje vesmír≫observable<br>
+homogeneous = same density everywhere (statistically)<br>
+isotropic = same appearance in every direction<br>
+→ basis of FRW metric → implies universe≫observable<br>
 <br>
 
 ⟒LSS::web{filaments, walls, voids}<br>
