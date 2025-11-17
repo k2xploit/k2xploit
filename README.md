@@ -45,6 +45,12 @@ vacuum∅ → δq_fluctuation → inflation↑ → hot_dense_state(BigBang)<br>
 U_collapse→quantum_rebound→BB₂<br>
 <br>
 
+⟒homogeneity_isotropy:<br>
+homogénny=rovnaká hustota všade (statisticky)<br>
+izotropný=vyzerá rovnako v každom smere<br>
+→ základ FRW metriky<br>
+<br>
+
 ⟒LSS::web{filaments, walls, voids}<br>
 filaments=cosmic_threads(up_to~100s_Mly; >superclusters)<br>
 ⟒D_void≈10–100Mpc<br>
@@ -102,8 +108,10 @@ spin↑→ergosphere+jets↑<br>
 
 ⟟BHs:<br>
 r_s=2GM/c²<br>
-SgrA*≈4×10⁶M☉<br>
-M87*≈6×10⁹M☉<br>
+speed_inside>c (spacetime_curvature)<br>
+expansion_insideBH?≈no (gravity≫Λ)<br>
+SgrA≈4×10⁶M☉<br>
+M87≈6×10⁹M☉<br>
 TON618≈(4–6)×10¹⁰M☉<br>
 <br>
 
@@ -168,12 +176,17 @@ U_reproduction via BH? (Smolin_fecundity)<br>
 
 ⟟expansion:<br>
 v = H₀ · r<br>
-regions_with(v_rec > c) → light_never_reaches_us (cosmic_event_horizon)<br>
-threshold_today≈14×10⁹ly (v=c)<br>
+threshold_today(r≈14×10⁹ly → v=c)<br>
+regions_with(v_rec>c) → light_never_reaches_us (cosmic_event_horizon)<br>
 r<14 Gly → light_can_reach<br>
 r>14 Gly → no_new_light_reaches<br>
+<br>
+
+⟒comoving_vs_physical:<br>
+comoving=distance_scaled_with_expansion<br>
+physical=actual_distance_then<br>
 comoving_D(CMB_today)=46.5 Gly<br>
-physical_D(CMB_when_emitted)=41 My<br>
+physical_D(CMB_when_emitted)=~41 Mly<br>
 <br>
 
 ≣expansion≠uniform<br>
