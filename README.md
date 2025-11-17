@@ -25,7 +25,7 @@ age≈13.797±0.023Gy<br>
 <br>
 
 ⟒BigBang_models:<br>
-quantum_vacuum_fluctuation (leading ≈70%)<br>
+quantum_vacuum_fluctuation (leading≈70%)<br>
 bounce_cosmology (alt)<br>
 BH_parent_universe? (spec.)<br>
 multiverse_inflation (alt)<br>
@@ -47,8 +47,8 @@ U_collapse→quantum_rebound→BB₂<br>
 
 ⟒homogeneity_isotropy:<br>
 homogénny=rovnaká hustota všade (statisticky)<br>
-izotropný=vyzerá rovnako v každom smere<br>
-→ základ FRW metriky<br>
+izotropný=rovnaký vzhľad v každom smere<br>
+→ základ FRW metriky → implikuje vesmír≫observable<br>
 <br>
 
 ⟒LSS::web{filaments, walls, voids}<br>
@@ -162,6 +162,9 @@ quasar≫horizon<br>
 <br>
 
 ⟟BH_interior_QG:<br>
+r=0=singularity_coordinate<br>
+r_insideBH_behaves_like_time<br>
+all_future_paths→r=0<br>
 hypotheses={quantum_core, Planck_core, foam, bounce}<br>
 BH→white_hole? (spec.)<br>
 BH→baby_universe? (Smolin)<br>
@@ -187,6 +190,27 @@ comoving=distance_scaled_with_expansion<br>
 physical=actual_distance_then<br>
 comoving_D(CMB_today)=46.5 Gly<br>
 physical_D(CMB_when_emitted)=~41 Mly<br>
+<br>
+
+⟒cosmic_visibility:<br>
+objects_at~33 Gly_today were~3–4 Gly_when_light_left<br>
+expansion stretched distances during travel<br>
+we_see_past_light, not current_positions<br>
+<br>
+
+⟒MW_and_Earth_formation:<br>
+MW_age≈12.8–13.2 Gy (formed~0.5–1 Gy after BB)<br>
+Earth_age≈4.54 Gy (universe_age_then≈9.2 Gy)<br>
+<br>
+
+⟟heat_death_future:<br>
+T→0K(asymptotically)<br>
+Ω_Λ→~100% (never exactly)<br>
+no_stars<br>
+no_galaxies<br>
+no_BHs (evaporated)<br>
+only_low_energy_photons+expanding_space<br>
+new_BigBang_from_evaporation?≈no<br>
 <br>
 
 ≣expansion≠uniform<br>
